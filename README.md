@@ -1,1 +1,1 @@
-# Detecting-Alzheimer-s-Using-Modern-Attention-based-models
+# Detecting Alzheimer's Using Modern Attention based models
